@@ -10,15 +10,25 @@
 My name is Tiago and I'm fullstack developer.
 
 >Javascript 
+
 >TypeScript
+
 >Nodejs
+
 >Reactjs
+
 >React-Native
+
 >HTML
+
 >CSS
+
 >Mysql
+
 >Sqlserver
+
 >MongoDB
+
 >Firebase
 
 
