@@ -9,6 +9,8 @@
 
 My name is Tiago and I'm fullstack developer.
 
+## Technical skills and tools
+
 >Javascript 
 
 >TypeScript
@@ -31,6 +33,8 @@ My name is Tiago and I'm fullstack developer.
 
 >Firebase
 
+>VB6
 
+>C#
 
-### This is a little of my work
+### Thank you for your attention!!!
