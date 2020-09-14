@@ -1,4 +1,5 @@
-# Tiago Alves : fullstack developer
+![alt initial](https://github.com/TiagoaReis/TiagoaReis/blob/master/Fundo.png)
+# Tiago Alves | fullstack Developer
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/TiagoaReis)
